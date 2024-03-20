@@ -1,0 +1,26 @@
+{
+  "name": "@yicchi/is-even",
+  "version": "0.8.1",
+  "type": "module",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YiCChi/front-monorepo.git",
+    "directory": "packages/is-even"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "*.md"
+  ],
+  "scripts": {
+    "build": "node ../../scripts/build.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@yicchi/is-odd": "workspace:*"
+  }
+}

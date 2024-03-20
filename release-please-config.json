@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "packages/is-even": {},
+    "packages/is-odd": {},
+    "packages/math": {}
+  },
+  "plugins": ["node-workspace"]
+}
