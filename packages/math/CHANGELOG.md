@@ -38,6 +38,13 @@
   * dependencies
     * @yicchi/is-even bumped to 0.8.1
 
+## [0.2.0](https://github.com/Darkflame72/rp-test/compare/math-v0.1.6...math-v0.2.0) (2024-03-21)
+
+
+### Features
+
+* improve math ([7d1ffc9](https://github.com/Darkflame72/rp-test/commit/7d1ffc91a90f00a4e41bce0ed51b5c7ae7beba1f))
+
 ## [0.1.0](https://github.com/YiCChi/front-monorepo/compare/math-v0.0.1...math-v0.1.0) (2023-12-02)
 
 
